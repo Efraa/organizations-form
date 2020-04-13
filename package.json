@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "author": "Efrain Peralta",
   "private": true,
+  "homepage": "https://efraa.github.io/organizations-form",
   "dependencies": {
     "bootstrap": "^4.4.1",
     "color": "^3.1.2",
@@ -17,6 +18,7 @@
     "styled-components": "^5.0.0"
   },
   "scripts": {
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build"
   },
@@ -41,6 +43,7 @@
     "eslint-config-prettier": "^6.9.0",
     "eslint-plugin-prettier": "^3.1.2",
     "eslint-plugin-react-hooks": "^2.5.0",
-    "prettier": "^1.19.1"
+    "prettier": "^1.19.1",
+    "gh-pages": "^2.2.0"
   }
 }

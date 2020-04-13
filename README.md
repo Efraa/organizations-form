@@ -2,7 +2,7 @@
 
 Organizations form is an extended form to obtain data from educational centers.
 
-(IT'S ONLY ENTERTAINMENT.)
+[DEMO](https://efraa.github.io/organizations-form/)
 
 <img src="screen.png" alt="" style="max-width:100%;" />
 
