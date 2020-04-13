@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/organizations-form/static/js/main.162ad5b1.chunk.js",
+    "main.js.map": "/organizations-form/static/js/main.162ad5b1.chunk.js.map",
+    "runtime-main.js": "/organizations-form/static/js/runtime-main.0b045a3d.js",
+    "runtime-main.js.map": "/organizations-form/static/js/runtime-main.0b045a3d.js.map",
+    "static/css/2.de424728.chunk.css": "/organizations-form/static/css/2.de424728.chunk.css",
+    "static/js/2.e8da28ab.chunk.js": "/organizations-form/static/js/2.e8da28ab.chunk.js",
+    "static/js/2.e8da28ab.chunk.js.map": "/organizations-form/static/js/2.e8da28ab.chunk.js.map",
+    "index.html": "/organizations-form/index.html",
+    "precache-manifest.9fc5bcab86ee20b72f6417ee042298e5.js": "/organizations-form/precache-manifest.9fc5bcab86ee20b72f6417ee042298e5.js",
+    "service-worker.js": "/organizations-form/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/organizations-form/static/css/2.de424728.chunk.css.map",
+    "static/js/2.e8da28ab.chunk.js.LICENSE.txt": "/organizations-form/static/js/2.e8da28ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b045a3d.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.e8da28ab.chunk.js",
+    "static/js/main.162ad5b1.chunk.js"
+  ]
+}
