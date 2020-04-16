@@ -3,5 +3,6 @@
     "**/.git": true,
     "**/node_modules": true,
     "**/.editorconfig": true,
+    "**/build": true,
   }
 }
