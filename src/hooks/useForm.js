@@ -1,8 +1,8 @@
 import { useContext } from 'react'
-import { FormContext } from '../screens/Form/Context'
+import { FormContext } from '../OrganizationsForm/Context'
 
 export const useForm = stepName => {
-  const { formData, setStepData } = useContext(FormContext)
+  const { formData, setStepData, setStepName } = useContext(FormContext)
   const data = formData[stepName]
   const onChange = e =>
     setStepData({ [stepName]: { ...data, [e.target.name]: e.target.value } })
@@ -13,5 +13,6 @@ export const useForm = stepName => {
     onChange,
     data,
     setData,
+    setStepName,
   }
 }
