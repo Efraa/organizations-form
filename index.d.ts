@@ -4,7 +4,9 @@ declare module 'styled-components' {
   export interface DefaultTheme {
     colors: {
       black: string
+      blackOdd: string
       white: string
+      blue: string
       gray: string
       primary: string
       secondary: string
@@ -18,7 +20,7 @@ declare module 'styled-components' {
     },
     fonts: {
       primary: string
-      secondary: string
+      poppins: string
     },
     media: {
       up: (props: {

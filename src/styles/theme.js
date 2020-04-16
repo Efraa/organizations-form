@@ -2,11 +2,11 @@ import React from 'react'
 import { ThemeProvider } from 'styled-components'
 
 const colors = {
-  black: '#000000',
-  blackOdd: '#222222',
+  black: '#15202B',
+  blackOdd: '#192734',
   white: '#ffffff',
-  gray: '#A7ABAE',
-  required: '#B00020',
+  blue: '#1DA1F2',
+  gray: '#8899A6',
 }
 
 const breakpoints = {
@@ -20,12 +20,12 @@ const fonts = {
   poppins: "'Poppins', sans-serif",
 }
 
-const themeOpts = {
+export const themeOpts = {
   colors: {
     ...colors,
-    primary: colors.pink,
-    secondary: colors.white,
-    defaultTextColor: colors.blackOdd,
+    primary: colors.blue,
+    secondary: colors.blackOdd,
+    defaultTextColor: colors.gray,
   },
   fonts: {
     ...fonts,
